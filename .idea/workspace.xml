@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91f63bc9-6079-438b-9b9d-996abb49d1ff" name="Default Changelist" comment="快乐数（简单）">
+      <change beforePath="$PROJECT_DIR$/快慢指针/isHappy.py" beforeDir="false" afterPath="$PROJECT_DIR$/快慢指针/isHappy.py" afterDir="false" />
+    </list>
+    <list id="0704f8ce-cc8c-41c9-8e9e-ce911ef57bc3" name="Revert &quot;learning&quot;" comment="Revert &quot;learning&quot;&#10;&#10;This reverts commit 9ae55054">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/二进制枚举/maximumRequests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模拟/addTwoNumbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模拟/convert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模拟/intToRoman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模拟/longestCommonPrefix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模拟/longestPalindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模拟/maximumDifference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模拟/myAtoi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模拟/reverse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/模拟/sum_of_numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/贪心算法/optimalDivision.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="25rbw3zFS6Q0VviKvdJeX3AVx32" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91f63bc9-6079-438b-9b9d-996abb49d1ff" name="Default Changelist" comment="" />
+      <created>1646288388262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646288388262</updated>
+    </task>
+    <task id="LOCAL-00001" summary="learning">
+      <created>1646288507132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646288507132</updated>
+    </task>
+    <task id="LOCAL-00002" summary="快乐数（简单）">
+      <created>1646288571492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646288571492</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:G:/PycharmProjects/leetcode/二进制枚举" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="learning" />
+    <MESSAGE value="快乐数（简单）" />
+    <option name="LAST_COMMIT_MESSAGE" value="快乐数（简单）" />
+  </component>
+</project>
