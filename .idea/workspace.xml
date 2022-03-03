@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91f63bc9-6079-438b-9b9d-996abb49d1ff" name="Default Changelist" comment="快乐数（简单）">
-      <change beforePath="$PROJECT_DIR$/快慢指针/isHappy.py" beforeDir="false" afterPath="$PROJECT_DIR$/快慢指针/isHappy.py" afterDir="false" />
+    <list default="true" id="91f63bc9-6079-438b-9b9d-996abb49d1ff" name="Default Changelist" comment="两数相加（简单）">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <list id="0704f8ce-cc8c-41c9-8e9e-ce911ef57bc3" name="Revert &quot;learning&quot;" comment="Revert &quot;learning&quot;&#10;&#10;This reverts commit 9ae55054">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/二进制枚举/maximumRequests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/模拟/addTwoNumbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/模拟/convert.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/模拟/intToRoman.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/模拟/longestCommonPrefix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/模拟/longestPalindrome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/模拟/maximumDifference.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/模拟/myAtoi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/模拟/reverse.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/模拟/sum_of_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/贪心算法/optimalDivision.py" beforeDir="false" />
-    </list>
+    <list id="0704f8ce-cc8c-41c9-8e9e-ce911ef57bc3" name="Revert &quot;learning&quot;" comment="Revert &quot;learning&quot;&#10;&#10;This reverts commit 9ae55054" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +22,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,8 +48,109 @@
       <option name="project" value="LOCAL" />
       <updated>1646288571492</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="快乐数（简单）">
+      <created>1646288977388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646288977388</updated>
+    </task>
+    <task id="LOCAL-00004" summary="快乐数（简单）">
+      <created>1646289301695</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646289301695</updated>
+    </task>
+    <task id="LOCAL-00005" summary="快乐数（简单）">
+      <created>1646290264779</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646290264779</updated>
+    </task>
+    <task id="LOCAL-00006" summary="快乐数（简单）">
+      <created>1646290669096</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646290669096</updated>
+    </task>
+    <task id="LOCAL-00007" summary="最多可达成的换楼请求数目（困难）">
+      <created>1646290916019</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1646290916019</updated>
+    </task>
+    <task id="LOCAL-00008" summary="两数相加，链表">
+      <created>1646291411495</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1646291411495</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Z字形变换（中等）">
+      <created>1646291428732</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1646291428732</updated>
+    </task>
+    <task id="LOCAL-00010" summary="最长公共前缀（简单）">
+      <created>1646291451754</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646291451754</updated>
+    </task>
+    <task id="LOCAL-00011" summary="最长回文字符串">
+      <created>1646291466887</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1646291466887</updated>
+    </task>
+    <task id="LOCAL-00012" summary="增量元素之间的最大差值">
+      <created>1646291484147</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1646291484147</updated>
+    </task>
+    <task id="LOCAL-00013" summary="整数转罗马数字（中等）">
+      <created>1646291498333</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1646291498333</updated>
+    </task>
+    <task id="LOCAL-00014" summary="整数反转（中等）">
+      <created>1646291515718</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1646291515718</updated>
+    </task>
+    <task id="LOCAL-00015" summary="两数相加（简单）">
+      <created>1646291526430</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1646291526430</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -108,10 +192,20 @@
         <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="learning" />
     <MESSAGE value="快乐数（简单）" />
-    <option name="LAST_COMMIT_MESSAGE" value="快乐数（简单）" />
+    <MESSAGE value="最多可达成的换楼请求数目（困难）" />
+    <MESSAGE value="两数相加，链表" />
+    <MESSAGE value="Z字形变换（中等）" />
+    <MESSAGE value="最长公共前缀（简单）" />
+    <MESSAGE value="最长回文字符串" />
+    <MESSAGE value="增量元素之间的最大差值" />
+    <MESSAGE value="整数转罗马数字（中等）" />
+    <MESSAGE value="整数反转（中等）" />
+    <MESSAGE value="两数相加（简单）" />
+    <option name="LAST_COMMIT_MESSAGE" value="两数相加（简单）" />
   </component>
 </project>
