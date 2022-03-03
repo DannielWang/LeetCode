@@ -4,7 +4,7 @@ class Solution:
             total_sum = 0
             while number > 0:
                 number, digit = divmod(number, 10)
-                total_sum += digit ** 2
+                total_sum = total_sum + digit ** 2
             return total_sum
 
 
